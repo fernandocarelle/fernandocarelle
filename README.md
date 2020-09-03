@@ -1,10 +1,15 @@
-# 💻 Fernando Carelle 
+### 💻 Fernando Carelle 
 
 ✔️  JAVASCRIPT
-✔️  REACT JS 
-✔️  NODE JS 
+
+✔️  REACT JS
+
+✔️  NODE JS
+
 ✔️  MONGODB
-✔️  HTML     
+
+✔️  HTML 
+
 ✔️  CSS     
 
 
