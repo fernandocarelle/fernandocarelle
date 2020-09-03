@@ -1,16 +1,16 @@
 ### 💻 Fernando Carelle 
 
-#####✔️  JAVASCRIPT
+✔️  JAVASCRIPT
 
-#####✔️  REACT JS
+✔️  REACT JS
 
-######✔️  NODE JS
+✔️  NODE JS
 
-#####✔️  MONGODB
+✔️  MONGODB
 
-#####✔️  HTML 
+✔️  HTML 
 
-#####✔️  CSS     
+✔️  CSS     
 
 
 
