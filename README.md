@@ -3,7 +3,7 @@
 
 
 
-:heavy_check_mark:   JavaScrript
+###### :heavy_check_mark:   JavaScrript
 
 :heavy_check_mark:   React JS
 
