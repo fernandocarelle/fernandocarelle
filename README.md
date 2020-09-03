@@ -3,7 +3,7 @@
 
 
 
-:ballot_box_with_check:   JAVASCRIPT
+:heavy_check_mark:   JAVASCRIPT
 
 :ballot_box_with_check:   REACT JS
 
