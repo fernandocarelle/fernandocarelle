@@ -1,19 +1,19 @@
 ### 💻 Fernando Carelle 
 
-
-
+######
+######
 
 ###### :heavy_check_mark:   JavaScrript
 
-:heavy_check_mark:   React JS
+###### :heavy_check_mark:   React JS
 
-:heavy_check_mark:   Node JS
+###### :heavy_check_mark:   Node JS
 
-:heavy_check_mark:   MongoDB
+###### :heavy_check_mark:   MongoDB
 
-:heavy_check_mark:   HTML 
+###### :heavy_check_mark:   HTML 
 
-:heavy_check_mark:   CSS     
+###### :heavy_check_mark:   CSS     
 
 
 
