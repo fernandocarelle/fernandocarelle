@@ -3,17 +3,17 @@
 
 
 
-✔️   JAVASCRIPT
+:ballot_box_with_check:   JAVASCRIPT
 
-✔️   REACT JS
+:ballot_box_with_check:   REACT JS
 
-✔️   NODE JS
+:ballot_box_with_check:   NODE JS
 
-✔️   MONGODB
+:ballot_box_with_check:   MONGODB
 
-✔️   HTML 
+:ballot_box_with_check:   HTML 
 
-✔️   CSS     
+:ballot_box_with_check:   CSS     
 
 
 
